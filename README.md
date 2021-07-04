@@ -24,6 +24,10 @@ pip3 install -r requirements.txt
 
 ```command
 python3 DDosX.py
+
+#OR
+
+py3 DDosX.py
 ```
 
 #### - Created By: Amir.
