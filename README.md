@@ -30,4 +30,8 @@ python3 DDosX.py
 py3 DDosX.py
 ```
 
+## Recommendation
+
+``I advise not to use the tool on your own devices unless your internet is capable of carrying out attacks, I recommend using it on servers because it has a high internet speed.``
+
 #### - Created By: Amir.
