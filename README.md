@@ -9,15 +9,15 @@ This tool was made to learn how HTTP Flood attacks work, and to try it on your o
 You need to install the tool requirements.
 
 ```bash
-python3 -m pip -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 #OR
 
-py3 -m pip -r requirements.txt
+py3 -m pip install -r requirements.txt
 
 #OR
 
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
